@@ -40,39 +40,39 @@ https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/0
 # Micro Hack - Migrate and Secure to be AI Ready Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/06_Migration_Secure_AI_Ready
 
-# Micro Hack - Business Continuity on Azure
+# Micro Hack - Business Continuity on Azure Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/04_BCDR_Azure_Native
 
-#  Micro Hack - Azure VMware Solution
+#  Micro Hack - Azure VMware Solution Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/05_Azure_VMware_Solution
 
-# Micro Hack - Azure Monitor for virtual machines
+# Micro Hack - Azure Monitor for virtual machines Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/07_Azure_Monitor
 
-# Micro Hack - Azure Virtual Desktop
+# Micro Hack - Azure Virtual Desktop Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/09_Nerdio_and_Azure_Virtual_Desktop
 
-# Microhack - Oracle Database @ Azure (ODAA)
+# Microhack - Oracle Database @ Azure (ODAA) Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/10_Oracle_on_Azure
 
 # -------------------------------------------------------
 # Micro Hack Data Topics:
 
-# Micro Hack - SQL modernization
+# Micro Hack - SQL modernization Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-02%20Data/02-SQL_Modernization
 
-# Micro Hack - Azure Data Explorer (Preview)
+# Micro Hack - Azure Data Explorer (Preview) Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-02%20Data/01-ADX-Microhack
 
 # Micro Hack App Modernization & Innovation Topics:
 
-# Micro Hack - AppService to ContainerApps
+# Micro Hack - AppService to ContainerApps Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-01-App%20Innovation/01_AppServicetoContainerApps
 
-# Micro Hack - SAP & Teams Integration with Copilot Studio and Generative AI
+# Micro Hack - SAP & Teams Integration with Copilot Studio and Generative AI Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-05-SAP/02_SAP_Teams_Integration_with_GenAI
 
-# SAP Microhack: CashFlow Prediction
+# SAP Microhack: CashFlow Prediction Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-05-SAP/01_MicroHack-SAP-Cashflow-Prediction
 
 
