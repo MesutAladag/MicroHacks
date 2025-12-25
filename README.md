@@ -3,24 +3,24 @@ Hands-On with Azure in a Day
 
 Technical hands-on Workshops led by Azure Specialists und Cloud Experts on your chosen topic.
 
-MicroHack Topics:
+# MicroHack Topics:
 https://www.microsoft.com/de-de/techwiese/events/microhacks/default.aspx#themen
 
 Github Repos: https://github.com/microsoft/MicroHack/tree/main/03-Azure
 
-Azure Jumpstart Packages:
+# Azure Jumpstart Packages
 https://jumpstart.azure.com/
 
-Arc Insights PBI Dashboards Powered by Jumpstart
+# Arc Insights PBI Dashboards Powered by Jumpstart
 
 https://jumpstart.azure.com/azure_jumpstart_drops?drop=Arc%20Insights%20PBI%20Dashboards%20Powered%20by%20Jumpstart&fs=true
 
 PBIX DOwnload Repo: https://github.com/Azure/arc_jumpstart_drops/tree/main/ui_dashboard_workbook/arc_pbi_dashboard
 
 
-Event in Türkiye:
+# Event in Türkiye
 
-Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi
+# Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi
 
 09:00 - 09:20 Welcome, Networking
 
@@ -48,6 +48,8 @@ Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi
 
 
 Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi: https://msevents.microsoft.com/event?id=3804540816 
-Github Repos: https://aka.ms/microhack
+
+# Github Repos
+https://aka.ms/microhack
 
 
