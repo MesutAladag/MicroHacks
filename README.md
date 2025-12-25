@@ -17,6 +17,8 @@ https://jumpstart.azure.com/azure_jumpstart_drops?drop=Arc%20Insights%20PBI%20Da
 
 PBIX DOwnload Repo: https://github.com/Azure/arc_jumpstart_drops/tree/main/ui_dashboard_workbook/arc_pbi_dashboard
 
+Power BI Configuration Details: https://github.com/Azure/arc_jumpstart_drops/blob/main/ui_dashboard_workbook/arc_pbi_dashboard/_index.md
+
 
 # Event in Türkiye
 
