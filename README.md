@@ -1,5 +1,6 @@
 # MicroHacks
 Hands-On with Azure in a Day
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4516a81d-1d64-40fc-92dc-c3a605fee6fd" />
 
 Technical hands-on Workshops led by Azure Specialists und Cloud Experts on your chosen topic.
 
