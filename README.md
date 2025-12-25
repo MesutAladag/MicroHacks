@@ -91,6 +91,12 @@ https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-02%20Data/01-ADX-Mi
 # Micro Hack - AppService to ContainerApps
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-01-App%20Innovation/01_AppServicetoContainerApps
 
+# Micro Hack - SAP & Teams Integration with Copilot Studio and Generative AI
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-05-SAP/02_SAP_Teams_Integration_with_GenAI
+
+# SAP Microhack: CashFlow Prediction
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-05-SAP/01_MicroHack-SAP-Cashflow-Prediction
+
 
 
 
