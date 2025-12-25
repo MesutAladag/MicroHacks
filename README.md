@@ -54,11 +54,44 @@ Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi: https://msevents.micr
 # Github Repos
 https://aka.ms/microhack
 
-# MicroHack Topics:
+# Micro Hack Migrate & Modernization Topics:
 
-# Arc Enabled Servers Challenges
+# Micro Hack - Arc Enabled Servers Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/02_Hybrid_Azure_Arc_Servers
 
-# Migrate and Secure to be AI Ready Challenges
+# Micro Hack - Migrate and Secure to be AI Ready Challenges
 https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/06_Migration_Secure_AI_Ready
+
+# Micro Hack - Business Continuity on Azure
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/04_BCDR_Azure_Native
+
+#  Micro Hack - Azure VMware Solution
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/05_Azure_VMware_Solution
+
+# Micro Hack - Azure Monitor for virtual machines
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/07_Azure_Monitor
+
+# Micro Hack - Azure Virtual Desktop
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/09_Nerdio_and_Azure_Virtual_Desktop
+
+# Microhack - Oracle Database @ Azure (ODAA)
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/10_Oracle_on_Azure
+
+# -------------------------------------------------------
+# Micro Hack Data Topics:
+
+# Micro Hack - SQL modernization
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-02%20Data/02-SQL_Modernization
+
+# Micro Hack - Azure Data Explorer (Preview)
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-02%20Data/01-ADX-Microhack
+
+# Micro Hack App Modernization & Innovation Topics:
+
+# Micro Hack - AppService to ContainerApps
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-01-App%20Innovation/01_AppServicetoContainerApps
+
+
+
+
 
