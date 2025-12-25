@@ -5,7 +5,7 @@ Technical hands-on Workshops led by Azure Specialists und Cloud Experts on your 
 
 MicroHack Topics:
 https://www.microsoft.com/de-de/techwiese/events/microhacks/default.aspx#themen
-https://github.com/microsoft/MicroHack/tree/main/03-Azure
+Github Repos: https://github.com/microsoft/MicroHack/tree/main/03-Azure
 
 Azure Jumpstart Packages:
 https://jumpstart.azure.com/
