@@ -11,6 +11,13 @@ Github Repos: https://github.com/microsoft/MicroHack/tree/main/03-Azure
 Azure Jumpstart Packages:
 https://jumpstart.azure.com/
 
+Arc Insights PBI Dashboards Powered by Jumpstart
+
+https://jumpstart.azure.com/azure_jumpstart_drops?drop=Arc%20Insights%20PBI%20Dashboards%20Powered%20by%20Jumpstart&fs=true
+
+PBIX DOwnload Repo: https://github.com/Azure/arc_jumpstart_drops/tree/main/ui_dashboard_workbook/arc_pbi_dashboard
+
+
 Event in Türkiye:
 
 Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi
