@@ -3,6 +3,7 @@ Hands-On with Azure in a Day
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4516a81d-1d64-40fc-92dc-c3a605fee6fd" />
 
 Technical hands-on Workshops led by Azure Specialists und Cloud Experts on your chosen topic.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/af1e72b1-7ba7-441e-b7c6-ffc9bdc4ceb0" />
 
 # MicroHack Topics:
 https://www.microsoft.com/de-de/techwiese/events/microhacks/default.aspx#themen
@@ -13,44 +14,20 @@ Github Repos: https://github.com/microsoft/MicroHack/tree/main/03-Azure
 https://jumpstart.azure.com/
 
 # Arc Insights PBI Dashboards Powered by Jumpstart
-
 https://jumpstart.azure.com/azure_jumpstart_drops?drop=Arc%20Insights%20PBI%20Dashboards%20Powered%20by%20Jumpstart&fs=true
-
 PBIX DOwnload Repo: https://github.com/Azure/arc_jumpstart_drops/tree/main/ui_dashboard_workbook/arc_pbi_dashboard
-
 Power BI Configuration Details: https://github.com/Azure/arc_jumpstart_drops/blob/main/ui_dashboard_workbook/arc_pbi_dashboard/_index.md
+
+<img width="3582" height="2088" alt="{BB0D6CE7-1C32-4182-AA84-F27D3F4CDF76}" src="https://github.com/user-attachments/assets/a476cd6e-6597-4c1e-b99e-f6314ab3e795" />
 
 
 # Event in Türkiye
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/82ee2702-97c3-42ae-a66c-e51aef07ed4b" />
+
 # Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi
 
-09:00 - 09:20 Welcome, Networking
-
-09:20 - 09:30 Opening Keynote
-
-09:30 - 10:30 Migrate and Secure to be AI-Ready, Mesut Aladag
-
-10:30 - 11:30 Azure Arc-enabled Servers, Mesut Aladag
-
-11:30 - 11:50 Coffee Break
-
-11:50 - 13:00 SQL Modernization, Mustafa Asiroglu
-
-13:00 - 14:00 Lunch
-
-14:00 - 15:10 Business Continuity & Disaster Recovery (BCDR), İbrahim Ok
-
-15:10 - 15:30 Coffee Break
-
-15:30 - 16:30 App Modernization, Mustafa Dogankaya
-
-16:30 - 17:00 Q&A, Misc. (Azure Monitor, Azure VMware Solution (AVS), Sovereign Cloud)
-
-17:00	Closing
-
-
-Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi: https://msevents.microsoft.com/event?id=3804540816 
+Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi Kayıt Linki: https://msevents.microsoft.com/event?id=3804540816 
 
 # Github Repos
 https://aka.ms/microhack
