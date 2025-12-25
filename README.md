@@ -54,4 +54,11 @@ Microsoft Bulut ve Yapay Zekâ Hızlı Uygulama Atölyesi: https://msevents.micr
 # Github Repos
 https://aka.ms/microhack
 
+# MicroHack Topics:
+
+# Arc Enabled Servers Challenges
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/02_Hybrid_Azure_Arc_Servers
+
+# Migrate and Secure to be AI Ready Challenges
+https://github.com/microsoft/MicroHack/tree/main/03-Azure/01-03-Infrastructure/06_Migration_Secure_AI_Ready
 
